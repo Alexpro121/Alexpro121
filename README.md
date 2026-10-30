@@ -10,7 +10,7 @@
   <a href="https://alexpro121.github.io/loko-rikoshet/"><img src="assets/train-loko.svg" width="100%" alt="83 LOKO RUSH: 3D-футбол за 170 КБ, грати в браузері" /></a><br/>
   <img src="assets/train-tgloko.svg" width="100%" alt="34 TG-LOKO: бот команди на Hetzner, 24/7" /><br/>
   <img src="assets/train-agent.svg" width="100%" alt="19 Agent-One: Slack → Gemini → Google Calendar" /><br/>
-  <a href="https://github.com/Alexpro121/airalert-tsf"><img src="assets/train-airalert.svg" width="100%" alt="8 AirAlert-TSF: ризик повітряної тривоги на 3 години" /></a><br/>
+  <a href="https://github.com/Alexpro121/air-alert-forecast"><img src="assets/train-airalert.svg" width="100%" alt="8 AirAlert-TSF: ризик повітряної тривоги на 3 години" /></a><br/>
   <a href="https://www.linkedin.com/in/alex-sizikov-072776346/"><img src="assets/board-next.svg" width="100%" alt="Наступний: ваш проєкт" /></a>
 </p>
 
